@@ -1,5 +1,4 @@
-![Cover](http://i.imgur.com/vbFlFz9.jpg)
-![Portrait](http://i.imgur.com/TjLeSOZ.jpg)
+
 Chapter1.txt
 Chapter2.txt
 Chapter3.txt
